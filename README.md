@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Guilherme</h1>
 <h3 align="center">Analista de sistemas / Analista de dados</h3>
 
-- 👨‍💻 Meus projetos [portg](portg)
+- 🌱 Atualmente estou aprendendo **Análise de dados / Python / Gestão de projetos**
+
+- 👨‍💻 Meus projetos [projects](projects)
 
 - 📫Email para contato: **guilhermecotia@hotmail.com**
 
