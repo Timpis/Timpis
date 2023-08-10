@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Guilherme</h1>
 <h3 align="center">Desenvolvedor / Analista de dados</h3>
 
-- 🌱 Atualmente estou me aprimmorando em **Análise de dados / Python / Gestão de projetos**
+- 🌱 Atualmente estou me aprimorando conhecimento em **Análise de dados / Python / Gestão de projetos**
 
 - 👨‍💻 Meus projetos [projects](projects)
 
