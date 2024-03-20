@@ -1,8 +1,6 @@
 <br clear="both">
 
-<div align="center">
-  <img height="160" src="https://i.pinimg.com/originals/8a/e8/26/8ae826dba6a224dba3e49bf045583254.gif"  />
-</div>
+<img align="right" height="200" src="https://i.gifer.com/embedded/download/LGXL.gif"  />
 
 ###
 
@@ -18,11 +16,11 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="center">About me!!</h3>
 
 ###
 
-<p align="left">My name is Guilherme, from Brazil.<br><br>- 🔭 I'm working as Quality Software<br>- 📚 I'm currently learning C# and project management<br>- ⚡ In my free time I rest in nature<br><br>e-mail: guilhermecotia@hotmail.com</p>
+<p align="left">Atualmente, estou imerso no mundo da programação, focando meus esforços no aprendizado de C# .NET. Sou apaixonado por desenvolvimento fullstack e estou constantemente me desafiando a evoluir nesse campo fascinante. Minha jornada não se limita apenas isso; tenho uma inclinação curiosa pelo universo mobile, especialmente no desenvolvimento Android, e faço questão de dedicar tempo para explorar e aprender sobre isso.<br><br><br>Em minha jornada profissional, assumo um papel essencial na melhoria contínua de software. Como membro de uma equipe dedicada de QA Software, estou comprometido em garantir a qualidade e a funcionalidade dos produtos em que trabalho. Minha abordagem é centrada na excelência, buscando constantemente maneiras de aprimorar o desempenho e a usabilidade do software.<br><br>Contato - ✉️<br><br>Se você quiser se conectar, colaborar ou simplesmente trocar ideias.<br><br>E-mail: guilhermecotia@hotmail.com</p>
 
 ###
 
@@ -35,15 +33,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
 </div>
